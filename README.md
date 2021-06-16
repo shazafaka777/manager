@@ -12,6 +12,7 @@ Free open-source bot for VK **Chat Manager** Bot.
 <details>
 
 *   **Troubles?** - Are there any problems? Contact him - https://vk.com/montygriefoff
+</details>
 
 ### How to start a bot?
 
