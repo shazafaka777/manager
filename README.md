@@ -7,7 +7,7 @@ Free open-source bot for VK **Chat Manager** Bot.
 *   **Deobfuscated** - Deobfuscated version of the script
 *   **Node.js** - programming language
 *   **JSON Database** - Convenient database for beginners.
-*   **Issuance* - Automatic issuance of the creator to the creator of the conversation.
+*   **Issuance** - Automatic issuance of the creator to the creator of the conversation.
 
 <details>
 
