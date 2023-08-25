@@ -1,6 +1,6 @@
 var playa_module = require("playadope.js")
 fs = require("fs")
-var chatmanager = playa_module("token")
+var chatmanager = playa_module("vk1.a.EY4TKjNj_w8aNUbOVifRywmyDETxjGuoxW20rgihNJdn8oRnz-myT5gIPHZaoVwxYTNd7pcfdmGTQXF60pol_wMoD1hIzrvH3-7DKYQ21AZWpmbPMCOc7_-XrKoDx4WkuQWfjROBogRFz3hgLHFLJwo6MCsMKEwXzEKwYIEPnEluWPs9v3d40Wee0oBD46LGAdtikD7LiIiJ5Yk-MBogfw")
 chatmgrbase = require("./data/database.json")
 lang = require("./data/lang.json")
 
